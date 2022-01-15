@@ -2,8 +2,6 @@
 
 This is a basic hello program. I created to demostrate the use of Visual Studio Code, Github and python integrated together
 
-{Describe your purpose for creating this software.}
-
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
