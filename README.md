@@ -2,7 +2,7 @@
 
 This is a basic hello program. I created to demostrate the use of Visual Studio Code, Github and python integrated together
 
-[Software Demo Video](https://youtu.be/i3OfMmxffug)
+You can watch a demo of my Software here [Software Demo Video](https://youtu.be/i3OfMmxffug)
 
 # Development Environment
 
